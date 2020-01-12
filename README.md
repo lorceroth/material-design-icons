@@ -4,7 +4,17 @@ This is a lightweight alternative to [Material Design Icons](https://github.com/
 
 ## Gettings Started
 
-TODO
+The easiest way to get started is to grab the package via NPM or Yarn:
+
+```bash
+$ npm install https://github.com/lorceroth/material-design-icons
+```
+
+or:
+
+```bash
+$ yarn add https://github.com/lorceroth/material-design-icons
+```
 
 ## License
 
